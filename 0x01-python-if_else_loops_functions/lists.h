@@ -6,7 +6,7 @@ Codespaces
 Marketplace
 Explore
 @boszcode
-Aysuarex /
+@boszcode
 alx-higher_level_programming
 Public
 
@@ -20,9 +20,9 @@ Security
     Insights
 
 alx-higher_level_programming/0x01-python-if_else_loops_functions/lists.h
-@Aysuarex
-Aysuarex Header file with function prototypes
-Latest commit 582c8f4 Oct 5, 2022
+@boszcode
+boszcode Header file with function prototypes
+Latest commit 582c8f4 Jan 3, 2023
 History
 1 contributor
 26 lines (21 sloc) 512 Bytes
